@@ -1,5 +1,5 @@
 # My DWM build for Manjaro linux  
-
+## DEPRECATED!!! (I won't update this repo anymore)
 ![Manjaro linux](/logo.png)  
 
 ![DWM](/dwm.png)  
